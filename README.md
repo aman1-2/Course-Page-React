@@ -38,3 +38,16 @@ This repository contains the source code for a simple course catalog web applica
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Any improvements or feature additions are welcome!
 
+### Preview Images of the Course Page
+**Overview Image of the Page UI ->**
+![Frontlook or Front UI of the Course Page.](./Assets/Course%20Page%201.jpg)
+
+
+
+**Toast Poping Up ->**
+![Showcasing the Toast of liked and removed poping up](./Assets/Course%20Page%204.jpg)
+
+
+**Category Filterd Displayed ->**
+![UI for a Category being Filtered.](./Assets/Course%20Page%202.jpg)
+
