@@ -1,0 +1,14 @@
+.buffer {
+    width: 56px;
+    height: 56px;
+    border: 11.2px #4e4e50 double;
+    border-left-style: solid;
+    border-radius: 50%;
+    animation: buffer-aib1d7 0.75s infinite linear;
+ }
+ 
+ @keyframes buffer-aib1d7 {
+    to {
+       transform: rotate(360deg);
+    }
+ }
